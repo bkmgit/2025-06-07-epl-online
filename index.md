@@ -483,4 +483,4 @@ to obtain the software and data you will need to follow the lesson.
 <h2>ACKNOWLEDGMENTS</h2>
 
 <p>This workshop has been partially supported through the NGI Mobifree fund administred by
-<a href="https://nlnet.nl/project/F-Droid-LambdaNative/">NLnet</a></p>p>.
+<a href="https://nlnet.nl/project/F-Droid-LambdaNative/">NLnet</a></p>.
