@@ -480,7 +480,7 @@ Please check the "Setup" page of
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
 
-ACKNOWLEDGMENTS
+<h2>ACKNOWLEDGMENTS</h2>
 
-This workshop has been partially supported through the NGI Mobifree fund administred by
-<a href="https://nlnet.nl/project/F-Droid-LambdaNative/">NLnet</a>.
+<p>This workshop has been partially supported through the NGI Mobifree fund administred by
+<a href="https://nlnet.nl/project/F-Droid-LambdaNative/">NLnet</a></p>p>.
