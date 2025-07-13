@@ -479,3 +479,8 @@ Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+ACKNOWLEDGMENTS
+
+This workshop has been partially supported through the NGI Mobifree fund administred by
+<a href="https://nlnet.nl/project/F-Droid-LambdaNative/">NLnet</a>.
